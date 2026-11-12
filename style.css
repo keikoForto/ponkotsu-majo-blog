@@ -1,0 +1,23 @@
+body {
+  background-color: #FAF8F3;
+  color: #3D3D3D;
+  font-family: "Zen Kaku Gothic New", sans-serif;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+  line-height: 1.8;
+}
+
+h1,
+h2 {
+  font-family: "Shippori Mincho", serif;
+  color: #A8B7A0;
+}
+
+a {
+  color: #C7A958;
+}
+
+section {
+  margin-bottom: 3rem;
+}
