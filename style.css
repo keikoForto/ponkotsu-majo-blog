@@ -45,6 +45,17 @@ nav a {
   text-decoration: none;
 }
 
+nav a {
+    color: #c9a35f;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+nav a:hover {
+    color: #8b6b3b;
+}
+
+
 header {
     margin-bottom: 30px;
 }
