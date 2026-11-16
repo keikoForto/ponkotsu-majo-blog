@@ -52,3 +52,11 @@ header {
 main {
     margin-top: 20px;
 }
+
+.category-list li{
+    background:#f7f5ef;
+    padding:10px;
+    margin-bottom:8px;
+    border-radius:8px;
+    list-style:none;
+}
