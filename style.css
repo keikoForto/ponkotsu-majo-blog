@@ -60,3 +60,8 @@ main {
     border-radius:8px;
     list-style:none;
 }
+
+.profile-img{
+    width:120px;
+    border-radius:50%;
+}
