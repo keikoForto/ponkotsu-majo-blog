@@ -55,12 +55,24 @@ nav a:hover {
     color: #8b6b3b;
 }
 
+nav {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
 header {
     margin-bottom: 30px;
 }
 
 main {
     margin-top: 20px;
+}
+
+.logo {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
 }
 
 .category-list {
